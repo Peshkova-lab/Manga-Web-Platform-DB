@@ -1,0 +1,33 @@
+.card {
+    display: block;
+    width: 250px;
+    height: 450px;
+    border: 1px solid black;
+    background-color: rgb(238, 238, 238);
+    margin: 75px;
+    float: left;
+    text-align: center;
+    padding: 20px;
+}
+
+a {
+    color: rgb(152, 42, 255);
+}
+
+h1 {
+    margin-left: 10px;
+    color: rgb(152, 42, 255);
+}
+
+body {
+    background-color: black;
+}
+
+.cover {
+    margin-top: 10px;
+    width: 220px;
+    height: 270px;
+    border: 2px solid black;
+
+}
+

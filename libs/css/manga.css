@@ -1,0 +1,69 @@
+body {
+    background-color: black;
+}
+
+.card {
+    display: block;
+    width: 1200px;
+    height: 450px;
+    border: none;
+    color: black;
+    background-color: rgb(238, 238, 238);
+    margin: 15px 75px;
+    float: left;
+    text-align: left;
+    padding: 20px;
+}
+
+.left {
+    display: block;
+    /*border: 1px solid black;*/
+    float: left;
+}
+
+.right {
+    margin-left: 250px;
+    height: 288px;
+    display: block;
+    /*border: 1px solid black;*/
+}
+
+.chapters {
+    background-color: rgb(238, 238, 238);
+    display: block;
+    width: 1200px;
+    height: 450px;
+    /*border: 1px solid black;*/
+    margin: 0px 75px;
+    float: left;
+    text-align: left;
+    padding: 20px;
+}
+
+
+.cover {
+    margin-top: 10px;
+    width: 220px;
+    height: 270px;
+    /*border: 2px solid black;*/
+
+}
+
+table {
+    width: 1200px;
+    border-radius: 5px;
+    border-style: groove;
+    font-size: 30px;
+}
+
+tr {
+    border: 1px  black;
+    padding: 15px;
+}
+
+td {
+    border-top: 1px groove;
+    border-bottom: 1px groove;
+    padding: 15px;
+}
+
